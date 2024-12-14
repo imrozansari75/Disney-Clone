@@ -45,7 +45,7 @@ function Header() {
           </div>
         </div>
       </div>
-      <img src="https://ps.w.org/user-avatar-reloaded/assets/icon-256x256.png?rev=2540745"
+      <img src="https://i.pinimg.com/1200x/7e/05/e0/7e05e0d3c0e3151a9f8d25a6e5fac44a.jpg"
         className='w-[40px] rounded-full' />
     </div>
   )
